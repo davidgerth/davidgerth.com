@@ -1,5 +1,6 @@
 {
     "dependencies": {
-        "bootstrap": "v2.3.2"
+        "bootstrap": "v2.3.2",
+        "requirejs": "2.1.6"
     }
 }
