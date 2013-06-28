@@ -1,6 +1,7 @@
 {
     "dependencies": {
         "bootstrap": "v2.3.2",
-        "requirejs": "2.1.6"
+        "requirejs": "2.1.6",
+	"bootswatch": "v2.3.2"
     }
 }
